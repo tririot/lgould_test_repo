@@ -10,7 +10,7 @@ junk repo for testing:
 
 > "Stick a fork in it. It's done"
 >
->                -- anonymous
+>                : anonymous
 ---
 
 ## Edit One
